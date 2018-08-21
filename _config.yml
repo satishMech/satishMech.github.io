@@ -1,19 +1,19 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: SatishMech
+description: This Site consists of Posts/Articles/Personal Views.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://satishmech.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
+hero: #112.jpg
+hero-title: #Welcome to Lokmont
+hero-description: #A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
 
 # Author - Creator
-author-name: Ben Campbell
+author-name: Satish G
 author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
+about-author: My name is Satish. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
+author-email: geerisatish@gmail.com
 author-twitter: https://twitter.com/
 author-facebook: https://twitter.com/
 author-instagram: https://www.instagram.com/
@@ -40,16 +40,16 @@ pinterest: https://pinterest.com/
 youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
+contact-subtitle: Please Write your Query. # Title for the subscription form.
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: "UA-124341738-1" # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: satishmech # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
